@@ -1,4 +1,4 @@
-class Human1
+class Human1 //extends object
 {
     private String name;
     int age;
